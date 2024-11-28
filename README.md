@@ -1,5 +1,5 @@
 # EAT-LOCAL-Restaurant
-![Uploading project_neo_adobe_firefly_generated_image.png…]()
+
 
 EAT-LOCAL is an emerging American burger bar chain that is gearing up for expansion into several 
 key cities in the UK, specifically like Wolverhampton, Birmingham, Stafford, and Manchester. This 
