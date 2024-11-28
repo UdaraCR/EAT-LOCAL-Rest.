@@ -1,6 +1,6 @@
-![eat](https://github.com/user-attachments/assets/082f0f21-b884-4fa8-a321-33f49e1234e2)
-# EAT-LOCAL-Restaurant
 
+# EAT-LOCAL-Restaurant
+![eat](https://github.com/user-attachments/assets/082f0f21-b884-4fa8-a321-33f49e1234e2)
 
 EAT-LOCAL is an emerging American burger bar chain that is gearing up for expansion into several 
 key cities in the UK, specifically like Wolverhampton, Birmingham, Stafford, and Manchester. This 
